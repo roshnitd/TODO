@@ -1,0 +1,30 @@
+.todo-container{
+    background: black;
+    width:70vw;
+    margin:5em auto;
+    border-radius: 10px;
+    padding: 15px;
+    color: white;
+
+}
+.header{
+    font-size: 20em;
+    text-align:center;
+}
+.input-container{
+    background:black;
+    padding: 0.5em;
+    border-radius: 1em;
+    border: 2px solid yellow;
+
+}
+.input{
+    font-size: 1em;
+    font-weight: bold;
+    color:black;
+    background-color: white;
+    border:1px;
+    border-radius:1em;
+    width:80%;
+}
+
